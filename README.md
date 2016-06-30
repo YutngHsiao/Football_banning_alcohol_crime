@@ -21,4 +21,4 @@ Data pre-processing in this test includes 3 steps:
 Leaflet map, polygons, and popups info with embedded ggplot
 
 #DEMO
- https://jony0912.shinyapps.io/ANN_simulator/
+ https://jony0912.shinyapps.io/Football_banning_orders/
